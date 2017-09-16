@@ -1,0 +1,14 @@
+{
+  "name": "vide-plugin-bucket-weixin",
+  "version": "0.0.1",
+  "author": "vic.wang",
+  "keywords": [
+    "vide-plugin",
+    "bucket-weixin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:debuggap/vide-plugin-bucket-weixin.git"
+  },
+  "main": "index.js"
+}
